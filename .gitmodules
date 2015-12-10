@@ -1,3 +1,6 @@
 [submodule "hacktx2015"]
 	path = hacktx2015
 	url = https://github.com/zapper59/hacktx2015.git
+[submodule "TwitToLib"]
+	path = TwitToLib
+	url = https://github.com/zapper59/TwitToLib.git
