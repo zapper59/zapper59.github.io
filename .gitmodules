@@ -4,3 +4,6 @@
 [submodule "TwitToLib"]
 	path = TwitToLib
 	url = https://github.com/zapper59/TwitToLib.git
+[submodule "enjoyhint"]
+	path = enjoyhint
+	url = https://github.com/zapper59/enjoyhint.git
